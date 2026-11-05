@@ -1,6 +1,6 @@
 # 📷 1999 QuickCam Express for MacOS
 
-**A 1999 webcam, back from the drawer, running on Apple Silicon, because why not.**
+**A 1999 webcam, back from the drawer, running on Apple Silicon, because why not.** 
 
 ![platform](https://img.shields.io/badge/platform-macOS%2011%2B-black?logo=apple)
 ![arch](https://img.shields.io/badge/arch-Apple%20Silicon%20%7C%20Intel-blue)
